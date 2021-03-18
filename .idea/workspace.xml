@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b11cee91-403a-4cd3-8fe9-1faacd5d2cb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../201201_shape/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../201201_shape/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../210121_map/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../210121_map/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../210121_map/src/OurTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../210121_map/src/OurTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23092020_exercise/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../23092020_exercise/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../251120_IntegerList/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../251120_IntegerList/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../251120_IntegerList/test/ArrayIntegerListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../251120_IntegerList/test/ArrayIntegerListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../251120_IntegerList/test/OurListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../251120_IntegerList/test/OurListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../260120_set/src/OurSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../260120_set/src/OurSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateTime/src/ScheduledMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DateTime/src/ScheduledMeeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DateTime/src/ScheduledMeetingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DateTime/src/ScheduledMeetingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrayList/test/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrayList/test/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankCreditsExercise/src/de/telran/LoanIssuer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankCreditsExercise/src/de/telran/LoanIssuer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankCreditsExercise/test/de/telran/LoanIssuerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankCreditsExercise/test/de/telran/LoanIssuerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binaryTree/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../binaryTree/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binaryTree/test/NodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../binaryTree/test/NodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bufferedReader/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bufferedReader/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bufferedReader/src/ReaderAndWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bufferedReader/src/ReaderAndWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cockroach/src/Cockroach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cockroach/src/Cockroach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customizedCollectors/src/NormalizationCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customizedCollectors/src/NormalizationCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customizedCollectors/src/NormalizationCollectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customizedCollectors/src/NormalizationCollectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customizedCollectors/src/SqrtSumCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customizedCollectors/src/SqrtSumCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customizedCollectors/src/SqrtSumCollectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customizedCollectors/src/SqrtSumCollectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dequeue/src/OurFixedArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dequeue/src/OurFixedArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../greatestCommonDivisor/test/GreatestCommonDivisorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../greatestCommonDivisor/test/GreatestCommonDivisorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloLambdas/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../helloLambdas/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloLambdas/src/TernaryIntPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../helloLambdas/src/TernaryIntPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multithreading/src/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multithreading/src/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printWriter/src/PrinterPW.java" beforeDir="false" afterPath="$PROJECT_DIR$/../printWriter/src/PrinterPW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringOperations/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../stringOperations/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringOperations/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stringOperations/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringVsStringbuilder/src/ConcatenationTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stringVsStringbuilder/src/ConcatenationTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringVsStringbuilder/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stringVsStringbuilder/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../udp_client/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../udp_client/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pmrcVbI8RGlTtBypxbR5jldoXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="loadBalancerProject_server" />
+      <option name="PROGRAM_PARAMETERS" value="3001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCPServer" />
+      <module name="loadBalancerProject_server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TCPServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TCPServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b11cee91-403a-4cd3-8fe9-1faacd5d2cb8" name="Default Changelist" comment="" />
+      <created>1615799190588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615799190588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615826345205">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="335" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1615826345205" />
+    <state x="335" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1615826120720" />
+    <state x="543" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1615824846739">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="543" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1615799468651" />
+    <state x="543" y="171" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1615805790936" />
+    <state x="543" y="171" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1615824846739" />
+    <state x="725" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615806487344">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="725" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1615806487344" />
+    <state width="1096" height="194" key="GridCell.Tab.0.bottom" timestamp="1615826444348">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1377" height="194" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1615801498932" />
+    <state width="1096" height="194" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1615826444348" />
+    <state width="1096" height="241" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1615826102037" />
+    <state width="1096" height="194" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1615826019602" />
+    <state width="1096" height="194" key="GridCell.Tab.0.center" timestamp="1615826444347">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1377" height="194" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1615801498931" />
+    <state width="1096" height="194" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1615826444347" />
+    <state width="1096" height="241" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1615826102036" />
+    <state width="1096" height="194" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1615826019600" />
+    <state width="1096" height="194" key="GridCell.Tab.0.left" timestamp="1615826444347">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1377" height="194" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1615801498931" />
+    <state width="1096" height="194" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1615826444347" />
+    <state width="1096" height="241" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1615826102035" />
+    <state width="1096" height="194" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1615826019599" />
+    <state width="1096" height="194" key="GridCell.Tab.0.right" timestamp="1615826444348">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1377" height="194" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1615801498932" />
+    <state width="1096" height="194" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1615826444348" />
+    <state width="1096" height="241" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1615826102036" />
+    <state width="1096" height="194" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1615826019601" />
+    <state width="1096" height="241" key="GridCell.Tab.1.bottom" timestamp="1615826175045">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1096" height="241" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1615826175045" />
+    <state width="1096" height="241" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1615826102318" />
+    <state width="1096" height="241" key="GridCell.Tab.1.center" timestamp="1615826175044">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1096" height="241" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1615826175044" />
+    <state width="1096" height="241" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1615826102317" />
+    <state width="1096" height="241" key="GridCell.Tab.1.left" timestamp="1615826175043">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1096" height="241" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1615826175043" />
+    <state width="1096" height="241" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1615826102317" />
+    <state width="1096" height="241" key="GridCell.Tab.1.right" timestamp="1615826175044">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1096" height="241" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1615826175044" />
+    <state width="1096" height="241" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1615826102318" />
+  </component>
+</project>
